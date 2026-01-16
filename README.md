@@ -52,7 +52,7 @@ Using Power Query, the raw data was transformed to ensure accuracy:
 - Given that the United Kingdom contributes a significantly higher share of total sales, marketing efforts should be increased to strengthen and maintain market dominance in the country.
 - Additionally, strategies driving sales success in the UK should be adapted and applied across other operating countries to ensure more balanced sales performance globally.
   
-  Link
+ 
   [Link](https://app.powerbi.com/view?r=eyJrIjoiMDc4YmFjOTMtOWY0Ny00ODJkLThiOGEtZmJhOTc5NzdhYWE1IiwidCI6IjY0M2NkODIwLWU2YzYtNGI2ZC05ZDc5LTJjOTgwOTllMTg3MCJ9)
 
 
